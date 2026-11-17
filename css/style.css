@@ -53,10 +53,20 @@ nav a:visited {
 
 nav a:hover,
 nav a.activo {
-    background: #cac2c2;
+    background: #c95959;
     color: rgb(29, 32, 32);
     border-radius: 5px;
     text-decoration-line: none;
+}
+.video-contenedor {
+    max-width: 720px;
+    margin: 0 auto;
+}
+
+.video-contenedor iframe,
+.video-contenedor video {
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
 }
 
 nav a:active {
