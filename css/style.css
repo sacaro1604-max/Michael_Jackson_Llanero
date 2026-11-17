@@ -53,7 +53,7 @@ nav a:visited {
 
 nav a:hover,
 nav a.activo {
-    background: #ffffff;
+    background: #eeeded;
     color: rgb(29, 32, 32);
     border-radius: 5px;
     text-decoration-line: none;
@@ -127,7 +127,7 @@ section {
     font-weight: bold;
     font-size: 1.1em;
 }
-.cancion-lista a:link {color: #032d64}
+.cancion-lista a:link {color: #5389d1}
 .cancion-lista a:visited { color: #65aeb1cc; }
 .cancion-lista a:hover { color: lightblue }
 .cancion-lista a:active { color: rgba(53, 53, 167, 0.575) }
